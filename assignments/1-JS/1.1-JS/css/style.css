@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    border: 2px solid black;
+    height: 70px;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 42px;
+    border-radius: 3px;
+}
