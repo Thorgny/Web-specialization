@@ -1,3 +1,24 @@
-main {
+* {
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+}
+
+.wrapper {
     max-width: 50%;
+}
+
+p {
+    border: 1px dotted #ccc;
+    padding: 5px;
+}
+
+ol li {
+    padding: 5px 0;
+}
+
+ul {
+    padding-top: 5px;
 }
